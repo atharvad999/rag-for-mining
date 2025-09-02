@@ -1,6 +1,6 @@
 # RTE Backend (Scaffold)
 
-Minimal scaffold to start the RTE project per plan.md.
+Retrieval‑augmented generation backend for mining documents: ingest PDFs, build a global knowledge base, and expose semantic search, summarization, and Q&A via FastAPI.
 
 ## Quick start
 
