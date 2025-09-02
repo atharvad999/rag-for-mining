@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+pypdf
+supabase
+openai
+groq
+sentence-transformers
+faiss-cpu
+typer
+docling

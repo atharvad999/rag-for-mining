@@ -1,0 +1,18 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+venv/
+venv2/
+backend/data/
+backend/.env*
+*.env*
+
+# Project-specific ignores
+docs/
+plan.md
+prd.me
+prd.md
